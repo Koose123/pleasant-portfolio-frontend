@@ -4,7 +4,7 @@ import { useState } from "react";
 
 
 const MySkills = () => {
-    const [skills, setSkills] = useState([
+    const [skills] = useState([
         {
             id: 1,
             title: 'HTML',
