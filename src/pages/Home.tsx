@@ -7,7 +7,7 @@ import MySkills from "../components/MySkills.tsx";
 import ContactUs from "../components/ContactUs.tsx";
 const Home = () => {
   return (
-    <div className="max-w-5xl m-auto px-3 ">
+    <div className="max-w-5xl m-auto px-2 ">
       <Header/>
       <Hero/>
       <hr className="bg-gray-900 m-10"/>

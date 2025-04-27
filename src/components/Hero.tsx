@@ -2,7 +2,7 @@ import { FaChevronRight } from 'react-icons/fa';
 import Img1 from '../assets/images/pleasant.jpg'
 const Hero = () => {
     return (
-        <div className=" px-10 md:px-5 py-10 h-auto w-full bg-[#212123]  text-white shadow-sm">
+        <div className=" px-3 md:px-10 py-10 h-auto w-full bg-[#212123]  text-white shadow-sm">
             <div className='flex flex-col md:flex-row items-center justify-between gap-10'>
                 <div className="hero_left">
                    <div className=' font-semibold'>

@@ -48,7 +48,7 @@ const ContactUs = () => {
     };
 
     return (
-        <div className="py-20 px-10 flex flex-col md:flex-row justify-between items-centers gap-5 md:gap-10">
+        <div className="py-20 px-3 md:px-10 flex flex-col md:flex-row justify-between items-centers gap-5 md:gap-10">
             <div className="w-full md:w-1/2">
                 <h1 className="text-3xl font-bold cursor-pointer my-5">Contact</h1>
                 <p className='py-3 text-gray-300/90 md:w-[70%] text-sm'>
